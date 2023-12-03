@@ -25,5 +25,4 @@ This project aims to predict the entrepreneurial competence of Ashesi students a
 ## Limitations
 Prediction accuracy depends on data quality. The model is a guide, not an absolute determinant.
 
-Link to video Demo: 
-
+Link to video Demo: https://youtu.be/jbXGx-1dwpM
